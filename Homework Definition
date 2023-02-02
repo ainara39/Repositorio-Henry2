@@ -1,0 +1,8 @@
+Definiciones
+variable: es la forma de almacenar algo para poder usarlo mas tarde
+Strings: Es una secuencia de simbolos o caracteres para mostrar un texto.
+funciones: es una union de codigos para realizar una operacion
+dentro de las funciones estan los argumentos: que son los intentos de apoyar ciertas operaciones con razones
+tambien esta return: donde la funcion a realizar detiene inmediatamente lo que esta haciendo y devuelvo lo realizado.
+declaraciones:dentro de ella esta if: que es la forma de verificar algo
+valores booleanos: representa el valor de una verdad. Dentro de esto se utiliza true o false. Verdadero o falso.
